@@ -1,0 +1,13 @@
+rtl/amhra_pkg.vh
+rtl/global_sensor_fusion.v
+rtl/temporal_severity_analysis.v
+rtl/fast_path_decision.v
+rtl/recovery_candidate_generator.v
+rtl/reliability_improvement_filter.v
+rtl/recovery_cost_evaluator.v
+rtl/minimum_impact_recovery_selector.v
+rtl/recovery_execution_controller.v
+rtl/recovery_verification.v
+rtl/riscv_recovery_interface.v
+rtl/rv32i_demo_core.v
+rtl/amhra_riscv_soc_top.v
